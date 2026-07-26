@@ -1,0 +1,18 @@
+{
+  "papers": [
+    {
+      "id": "paper_2026_april_22",
+      "title": "2026 April 22",
+      "year": 2026,
+      "version": 1,
+      "url": "pyq/2026/paper2026April22.json"
+    },
+    {
+      "id": "paper_2026_april_21",
+      "title": "2026 April 21",
+      "year": 2026,
+      "version": 1,
+      "url": "pyq/2026/paper2026April21.json"
+    }
+  ]
+}

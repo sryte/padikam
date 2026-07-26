@@ -1,0 +1,52 @@
+{
+  "id": "paper_2026_april_22",
+  "title": "2026 April 22",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "subject": "Physics",
+      "text": "The binding energy per nucleon of $^4_2He$ is $7.07 \\text{ MeV}$ and that of $^{12}_6C$ is $7.68 \\text{ MeV}$. The energy required to break a carbon nucleus into three alpha particles is:",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$7.26 \\text{ MeV}$",
+        "$9.25 \\text{ MeV}$",
+        "$11.36 \\text{ MeV}$",
+        "$15.5 \\text{ MeV}$",
+        "$18.4 \\text{ MeV}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 2,
+      "subject": "Chemistry",
+      "text": "Which of the following compounds exhibits both geometrical and optical isomerism?",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1,2-dichloroethane",
+        "2,3-dichlorobutane",
+        "3-chloro-1-butene",
+        "2-chlorobutane",
+        "2,4-hexadiene"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 3,
+      "subject": "Mathematics",
+      "text": "If $\\int \\frac{dx}{x^2+a^2} = \\frac{1}{a} \\tan^{-1}(\\frac{x}{a}) + C$, what is the value of $\\int_0^1 \\frac{dx}{x^2+1}$?",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$",
+        "$0$",
+        "$1$"
+      ],
+      "correct_option": 0
+    }
+  ]
+}
