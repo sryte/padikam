@@ -1,0 +1,2257 @@
+{
+  "id": "paper_2026_april_21",
+  "title": "2026 April 21",
+  "version": 1,
+  "questions": [
+    {
+      "id": 1,
+      "subject": "Mathematics",
+      "text": "Let $R$ be a relation in $\\mathbb{N}$ defined by $\\{(x:y):x + 3y = 10,x,y\\in \\mathbb{N}\\}$ Then the range of $R$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\{1,2,3,4\\}$",
+        "$\\{2,3,4\\}$",
+        "$\\backslash (\\backslash \\{1,3,4\\} \\backslash \\backslash)$",
+        "$\\{1,2,3,\\}$",
+        "$\\{1,3\\}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 2,
+      "subject": "Mathematics",
+      "text": "The domain of $f(x) = \\frac{x^2 + 1}{x^2 + x + 1}$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\mathbb{R}$",
+        "$\\mathbb{R} - \\{2\\}$",
+        "$\\mathbb{R} - \\{1\\}$",
+        "$\\mathbb{R} - \\{0\\}$",
+        "$\\mathbb{R} - \\{1, - 1\\}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 3,
+      "subject": "Mathematics",
+      "text": "Let $A$ and $B$ be two sets of having 3 and 2 elements respectively. Then the number of subsets of $A \\times B$ having at least three elements is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "24",
+        "52",
+        "42",
+        "64",
+        "60"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 4,
+      "subject": "Mathematics",
+      "text": "The number of elements in the set $\\{(x,y):2x^2 + 3y^2 = 35,x,y\\in \\mathbb{Z}\\}$ , where $\\mathbb{Z}$ is the set of all integers, is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4",
+        "6",
+        "16",
+        "12",
+        "8"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 5,
+      "subject": "Mathematics",
+      "text": "If $|z + 4| = 2|z + 1|$ , where $z$ is a complex number, then $|z|$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 6,
+      "subject": "Mathematics",
+      "text": "If $z(3 - i) = 2 + i$ , then $z^2 =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{i}{2}$",
+        "$\\frac{-i}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{-1}{2}$",
+        "$\\frac{1 + i}{2}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 7,
+      "subject": "Mathematics",
+      "text": "The imaginary part of $\\frac{1 - i\\sqrt{3}}{1 + i\\sqrt{3}}$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{-1}{2}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{\\sqrt{3}}{2}$",
+        "$\\frac{-\\sqrt{3}}{2}$",
+        "$\\frac{\\sqrt{3}}{4}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 8,
+      "subject": "Mathematics",
+      "text": "The sum of $i^2 + i^4 + \\ldots$ upto 25 terms is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "i",
+        "-i",
+        "1",
+        "-1"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 9,
+      "subject": "Mathematics",
+      "text": "In a geometric progression of positive terms, if any term is equal to the sum of the next two terms, then the common ratio of the geometric progression is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\sqrt{5} + 1}{2}$",
+        "$\\frac{\\sqrt{5} - 1}{2}$",
+        "$\\frac{\\sqrt{5} - 1}{4}$",
+        "$\\frac{\\sqrt{5} + 1}{4}$",
+        "$\\frac{\\sqrt{5}}{2}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 10,
+      "subject": "Mathematics",
+      "text": "A geometric progression has an even number of terms. If the sum of all terms is five times the sum of all odd terms, then the common ratio is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4",
+        "2 5",
+        "2",
+        "1 5",
+        "4 5"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 11,
+      "subject": "Mathematics",
+      "text": "If $a,b,c$ are three unequal numbers such that $a,b,c$ are in arithmetic progression and $b - a,c - b,a$ are in geometric progression, then $a:b:c$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "3:4:5",
+        "1:2:3",
+        "1:3:2",
+        "2:1:3",
+        "1:4:3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 12,
+      "subject": "Mathematics",
+      "text": "If three geometric means are inserted between 2 and 32, then the three numbers are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4,6,8",
+        "6,8,10",
+        "4,8,32",
+        "4,6,12",
+        "4,8,16"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 13,
+      "subject": "Mathematics",
+      "text": "If $\\frac{n_{Pr - 1}}{a} = \\frac{n_{Pr}}{b} = \\frac{n_{Pr + 1}}{c}$ , then",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$c^2 = b(a + c)$",
+        "$b^2 = a(a + b)$",
+        "$b^2 = a(b + c)$",
+        "$a^2 = b(a + c)$",
+        "$a^2 = c(a + b)$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 14,
+      "subject": "Mathematics",
+      "text": "The number of ways in which we can choose a committee from 3 men and 6 women so that the committee includes at least two men and exactly twice as many women as men is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "35",
+        "42",
+        "46",
+        "52",
+        "55"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 15,
+      "subject": "Mathematics",
+      "text": "If $\\frac{1}{8!} +\\frac{1}{9!} = \\frac{x}{12!}$ , then the value of $x$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "100",
+        "80",
+        "90",
+        "72",
+        "120"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 16,
+      "subject": "Mathematics",
+      "text": "There are two women participants in a badminton tournament. The number of games the men played between themselves exceeds by 12 the number of games they played with women. If each player played one game with each other, then the number of men in the tournament was",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "8",
+        "10"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 17,
+      "subject": "Mathematics",
+      "text": "If the 17th and 18th term in the expansion of $(2 + x)^{50}$ are equal, then the value of $x$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 18,
+      "subject": "Mathematics",
+      "text": "Let $f(x) = \\left| \\begin{array}{cc}x & 1 \\\\ \\sin 2\\pi x & 2x^2 \\end{array} \\right|$ . If $f(x)$ is an odd function, $f(- x) = g(x)$ and $\\lambda f(1)g(1) = 4$ Then the value of $\\lambda$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1",
+        "-4",
+        "0",
+        "4",
+        "-1"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 19,
+      "subject": "Mathematics",
+      "text": "The value of the determinant of the inverse of the matrix $\\left[ \\begin{array}{cc} - 4 & - 5 \\\\ 2 & 2 \\end{array} \\right]$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{-1}{4}$",
+        "1",
+        "2"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 20,
+      "subject": "Mathematics",
+      "text": "If $A = \\left[ \\begin{array}{cc}3 & \\lambda - 3 \\\\ -1 & 1 \\end{array} \\right] B = \\left[ \\begin{array}{cc}3 & 2 \\\\ 2 & 1 \\end{array} \\right]$ and $AB = \\left[ \\begin{array}{cc}7 & 1 \\\\ -1 & -1 \\end{array} \\right]$ , then $\\lambda$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 21,
+      "subject": "Mathematics",
+      "text": "If $A = \\left[ \\begin{array}{cc}1 & 1 \\\\ 0 & i \\end{array} \\right]$ and $A^{42} = \\left[ \\begin{array}{cc}a & b \\\\ c & d \\end{array} \\right]$ then $a + d$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "i",
+        "-i",
+        "1",
+        "-1"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 22,
+      "subject": "Mathematics",
+      "text": "If $(x - 1)(x^{2} - 5x + 7)< (x - 1)$ , then $x$ belongs to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$(- \\infty , - 1)\\cup (2,3)$",
+        "$(- \\infty , - 1]\\cup [2,3]$",
+        "$(- \\infty ,1)\\cup (2,3)$",
+        "$(- \\infty ,1)\\cup [2,3]$",
+        "$(- \\infty ,1)\\cup (2,3]$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 23,
+      "subject": "Mathematics",
+      "text": "The solution set of $|x + \\frac{1}{x} | > 2$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\mathbb{R}$",
+        "$\\mathbb{R} - \\{0\\}$",
+        "$\\mathbb{R} - \\{1, - 1\\}$",
+        "$\\mathbb{R} - \\{-1\\}$",
+        "$\\mathbb{R} - \\{-1,0,1\\}$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 24,
+      "subject": "Mathematics",
+      "text": "Let $L$ be an arc of a circle which subtends $45^{\\circ}$ at the centre. If the radius of circle is 4 cm, then the length of the $L$ in centimeter is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\pi$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{3}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 25,
+      "subject": "Mathematics",
+      "text": "If A = $\\left[ \\begin{array}{ccc}1 & \\sin \\theta & 1\\\\ -\\sin \\theta & 1 & \\sin \\theta \\\\ -1 & -\\sin \\theta & 1 \\end{array} \\right]$ , ( $0 \\leq \\theta \\leq 2\\pi$ ), then the minimum value of $|A|$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "-1",
+        "4"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 26,
+      "subject": "Mathematics",
+      "text": "If tan $\\left(\\frac{\\pi}{4} +\\theta\\right) = \\frac{1}{2}$ then the value of sin20 is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{-1}{5}$",
+        "$\\frac{2}{5}$",
+        "$\\frac{-3}{5}$",
+        "$\\frac{4}{5}$",
+        "1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 27,
+      "subject": "Mathematics",
+      "text": "If $1 + \\cos x = \\alpha ,0\\leq x\\leq \\frac{\\pi}{2}$ , then $\\sin \\frac{x}{2}$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\sqrt{\\frac{2 + \\alpha}{2}}$",
+        "$\\sqrt{\\frac{2 - \\alpha}{2}}$",
+        "$\\sqrt{\\frac{2 - \\alpha}{2}}$",
+        "$\\sqrt{\\frac{1 + \\alpha}{2}}$",
+        "$\\sqrt{\\frac{1 - \\alpha}{2}}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 28,
+      "subject": "Mathematics",
+      "text": "The value of cos-1 $\\cos^{-1}\\left(\\frac{-\\sqrt{3}}{2}\\right) + \\sin^{-1}\\left(\\frac{1}{2}\\right)$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{2}$",
+        "$\\pi$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 29,
+      "subject": "Mathematics",
+      "text": "The value of $2\\tan^{-1}\\left(\\frac{1}{3}\\right) + \\cot^{-1}\\left(\\frac{3}{4}\\right) =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\pi}{2}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{3\\pi}{4}$",
+        "$\\pi$",
+        "$\\frac{2\\pi}{3}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 30,
+      "subject": "Mathematics",
+      "text": "$\\frac{\\pi}{4}$ , then $\\frac{\\beta}{\\alpha} =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "10",
+        "4",
+        "6",
+        "2",
+        "12"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 31,
+      "subject": "Mathematics",
+      "text": "If the points (3,-2), (a,2), (8,8) are collinear, then the value of $\\alpha$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 32,
+      "subject": "Mathematics",
+      "text": "If the slope of the line joining the points (3,4) and (-2, $\\alpha$ ) is equal to $\\frac{-2}{5}$ , then the value of $\\alpha$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 33,
+      "subject": "Mathematics",
+      "text": "The distance of the point $P(1, - 3)$ from the line $2y - 3x = 4$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\sqrt{13}$ units",
+        "13 units",
+        "7 units",
+        "$\\sqrt{7}$ units",
+        "$2\\sqrt{13}$ units"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 34,
+      "subject": "Mathematics",
+      "text": "The line $x - 1 = 0$ is the directrix of the parabola, $y^{2} - kx + 8 = 0$ . Then, the values of $k$ are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "8,4",
+        "8,-4",
+        "-8,-4",
+        "8",
+        "-8,4"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 35,
+      "subject": "Mathematics",
+      "text": "The length of the latus rectum of $x^{2} = -9y$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "9 units",
+        "$\\frac{3}{2}$ units",
+        "4 units",
+        "3 units",
+        "$\\frac{9}{4}$ units"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 36,
+      "subject": "Mathematics",
+      "text": "The centre and radius of the circle $x^{2} + y^{2} - 2x + 4y = 8$ respectively are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(1,2), $\\sqrt{13}$",
+        "(-1,2), $\\sqrt{13}$",
+        "(-1,-1), $\\sqrt{13}$",
+        "(1,-2), $\\sqrt{13}$",
+        "(2,1), $\\sqrt{13}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 37,
+      "subject": "Mathematics",
+      "text": "If the length of the major axis of an ellipse is thrice the length of the minor axis, then its eccentricity is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{2\\sqrt{2}}{3}$",
+        "$\\frac{\\sqrt{2}}{\\sqrt{3}}$",
+        "$\\frac{1}{2}$",
+        "$\\frac{1}{\\sqrt{2}}$",
+        "$\\frac{2\\sqrt{2}}{4}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 38,
+      "subject": "Mathematics",
+      "text": "Let $\\vec{a},\\vec{b},\\vec{c}$ be such that If $\\vec{a} +\\vec{b} +\\vec{c} = \\vec{0}$ .If $|\\vec{a} | = 3,|\\vec{b} | = 4,|\\vec{c} | = 5$ then $|\\vec{a} .\\vec{b} +\\vec{b} .\\vec{c} +\\vec{c} .\\vec{a} | =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "20",
+        "24",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 39,
+      "subject": "Mathematics",
+      "text": "If $\\theta$ is the angle between two vectors $\\vec{a}$ and $\\vec{b}$ such that $|\\vec{a} | = 7,|\\vec{b} | = 1$ and $|\\vec{a} \\times \\vec{b} |^2 = k^2 - (\\vec{a} .\\vec{b})^2$ then the value(s) of $k$ is/are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "5",
+        "-5",
+        "3",
+        "-3",
+        "$\\pm 7$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 40,
+      "subject": "Mathematics",
+      "text": "If $O$ is the origin and $C$ is the midpoint of $A(-2,1)$ and $B(4, - 3)$ , then $\\overrightarrow{OC}$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\hat{\\ell} +\\hat{\\ell}$",
+        "$-\\hat{\\ell} +\\hat{\\ell}$",
+        "$\\frac{1}{2}\\hat{\\ell} +\\frac{1}{2}\\hat{\\ell}$",
+        "$\\hat{\\ell} -\\hat{\\ell}$",
+        "$-\\hat{\\ell} +\\hat{\\ell}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 41,
+      "subject": "Mathematics",
+      "text": "If $\\vec{a} = \\hat{\\ell} +\\hat{\\ell} +\\hat{k}$ and $\\vec{b} = \\hat{\\ell} -\\hat{\\ell} +\\hat{k}$ , then the projection of $\\vec{a}$ on $\\vec{b}$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\sqrt{3}$",
+        "$\\frac{1}{\\sqrt{3}}$",
+        "$\\frac{-1}{\\sqrt{3}}$",
+        "-√3",
+        "$\\frac{1}{3}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 42,
+      "subject": "Mathematics",
+      "text": "If the lines $\\frac{x}{a} = \\frac{y}{b} = \\frac{z}{c}$ and $\\frac{x-1}{1} = \\frac{y-2}{2} = \\frac{z-3}{3}$ are perpendicular to each other, then the value of $\\frac{a}{b} + \\frac{b}{c} + \\frac{c}{a}$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$-2$",
+        "$-1$",
+        "$0$",
+        "2",
+        "1"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 43,
+      "subject": "Mathematics",
+      "text": "The equation of straight line passing through $(a,b,c)$ and parallel to $z$-axis is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{x-a}{0} = \\frac{y-b}{0} = \\frac{z-c}{1}$",
+        "$\\frac{x-a}{1} = \\frac{y-b}{0} = \\frac{z-c}{0}$",
+        "$\\frac{x-a}{0} = \\frac{y-b}{1} = \\frac{z-c}{0}$",
+        "$\\frac{x-a}{1} = \\frac{y-b}{1} = \\frac{z-c}{0}$",
+        "$\\frac{x-a}{0} = \\frac{y-b}{0} = \\frac{z-c}{1}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 44,
+      "subject": "Mathematics",
+      "text": "The equation of a line passing through the point (1,-2,3) and equally inclined to the axes are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$x-1 = y-2 = z+3$",
+        "$x+1 = y-2 = z+3$",
+        "$x+1 = y-2 = z-3$",
+        "$x-1 = y+2 = z+3$",
+        "$x-1 = y+2 = z-3$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 45,
+      "subject": "Mathematics",
+      "text": "The vector equation of the straight line $\\frac{x-2}{3} = \\frac{y+1}{-2} = \\frac{z-3}{-2}$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$(2\\hat{i}-\\hat{j}+3\\hat{k}) + \\mu(3\\hat{i}-2\\hat{j}-2\\hat{k})$",
+        "$(2\\hat{i}-\\hat{j}-3\\hat{k}) + \\mu(3\\hat{i}-2\\hat{j}-2\\hat{k})$",
+        "$(3\\hat{i}-2\\hat{j}-2\\hat{k}) + \\mu(2\\hat{i}-\\hat{j}-3\\hat{k})$",
+        "$(3\\hat{i}+2\\hat{j}+2\\hat{k}) + \\mu(2\\hat{i}-\\hat{j}+3\\hat{k})$",
+        "$(3\\hat{i}-2\\hat{j}+2\\hat{k}) + \\mu(2\\hat{i}-\\hat{j}+3\\hat{k})$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 46,
+      "subject": "Mathematics",
+      "text": "A dice is thrown three times. If the first thrown is five, the probability of getting 14 as the sum is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{1}{9}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{2}{9}$",
+        "$\\frac{2}{3}$",
+        "$\\frac{1}{5}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 47,
+      "subject": "Mathematics",
+      "text": "If the variance of 1,2,3,...,n is 10, then the value of n is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "5",
+        "9",
+        "11",
+        "13",
+        "15"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 48,
+      "subject": "Mathematics",
+      "text": "If $P(A) = \\frac{1}{4}, P(B) = \\frac{1}{5}$ and $P(A \\cap B) = \\frac{1}{8}$ , then $P(A' / B') = (A'$ and $B'$ denote the complements of A and B respectively)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{27}{32}$",
+        "$\\frac{23}{32}$",
+        "$\\frac{25}{32}$",
+        "$\\frac{21}{32}$",
+        "$\\frac{29}{32}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 49,
+      "subject": "Mathematics",
+      "text": "We have two data sets each of size 5. The variances are 4 and 5 and the corresponding means are 2 and 4 respectively. Then the variance of the combined data set is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{11}{2}$",
+        "2",
+        "6",
+        "$\\frac{11}{2}$",
+        "$\\frac{13}{2}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 50,
+      "subject": "Mathematics",
+      "text": "The value of $\\lim_{x \\to 5} \\left(\\frac{25 - x^2}{4 - \\sqrt{x^2 - 9}}\\right)$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "32",
+        "16",
+        "8",
+        "4",
+        "0"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 51,
+      "subject": "Mathematics",
+      "text": "The value of $\\lim_{x \\to 0} \\frac{\\sqrt{1 - \\cos 2x}}{|x|}$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "-2",
+        "-√2",
+        "√2",
+        "1",
+        "2"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 52,
+      "subject": "Mathematics",
+      "text": "The positive integer n, such that $\\lim_{x \\to 3} \\frac{x^n - 3^n}{x - 3} = 108$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "3",
+        "12",
+        "6",
+        "9",
+        "4"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 53,
+      "subject": "Mathematics",
+      "text": "Let $\\lim_{x \\to a} f(x) g(x) = 16$ and $\\lim_{x \\to a} \\frac{f(x)}{g(x)} = 4$ If both $\\lim_{x \\to a} f(x)$ and $\\lim_{x \\to a} g(x)$ exists, then $\\lim_{x \\to a} f[(x) + g(x)] =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\pm 10$",
+        "-16",
+        "$\\pm 2$",
+        "16",
+        "$\\pm 4$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 54,
+      "subject": "Mathematics",
+      "text": "If $f(1) = 2; f'(1) = 1$ , then $\\lim_{x \\to 1} \\left[\\frac{xf(1) - f(x)}{x - 1}\\right] =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "-2",
+        "-1",
+        "2",
+        "1"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 55,
+      "subject": "Mathematics",
+      "text": "Let $f(x)$ and $g(x)$ be twice differentiable functions defined on [0,2] such that $f^{\\prime}(x) - g^{\\prime \\prime}(x) = 0,f^{\\prime}(1) = 4,g^{\\prime}(1) = 2,f(2) = 9,g(2) = 3.$ At $x = 3 / 2,f(x) - g(x) =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "8",
+        "10"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 56,
+      "subject": "Mathematics",
+      "text": "If $y = \\log \\left(\\sqrt{\\frac{x - 1}{x + 2}}\\right)$ then $\\frac{dy}{dx} =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{1}{2(x - 1)(x + 2)}$",
+        "$\\frac{3}{2(x - 1)(x + 2)}$",
+        "$\\frac{3}{(x - 1)(x + 2)}$",
+        "$\\frac{1}{(x - 1)(x + 2)}$",
+        "$\\frac{1}{3(x - 1)(x + 2)}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 57,
+      "subject": "Mathematics",
+      "text": "If $y = 3^{x} + e^{x} + x^{x} + x^{3}$ , then $\\frac{dy}{dx}$ at $x = 3$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$e^{3} + 27\\log_{e}3 + 54$",
+        "$e^{3} + 27\\log_{e}3 + 27$",
+        "$3^{3} + e^{3} + 27\\log_{e}3 + 27$",
+        "$3^{3} + e^{3} + 27\\log_{e}3 + 54$",
+        "$3^{3} + e^{3} + 27\\log_{e}3 + 54$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 58,
+      "subject": "Mathematics",
+      "text": "If $y = \\sin x + e^{x}$ , then $\\frac{d^{2}x}{dy^{2}}$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{e^{x} - \\sin x}{(\\cos x + e^{x})^{2}}$",
+        "$\\frac{e^{x} + \\sin x}{(\\cos x + e^{x})^{2}}$",
+        "$\\frac{e^{x} - \\sin x}{(\\cos x + e^{x})^{3}}$",
+        "$\\frac{\\sin x - e^{x}}{(\\cos x + e^{x})^{2}}$",
+        "$\\frac{\\sin x - e^{x}}{(\\cos x + e^{x})^{3}}$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 59,
+      "subject": "Mathematics",
+      "text": "If $y = \\log_{10}x + \\log_{e}x$ , then $\\frac{dy}{dx}$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{1 - \\log_{10}e}{x}$",
+        "$\\frac{1 + \\log_{e}10}{x}$",
+        "$x + \\log_{10}e$",
+        "$x + \\log_{e}10$",
+        "$\\frac{1}{x} [\\frac{1}{\\log_{e}10} +1]$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 60,
+      "subject": "Mathematics",
+      "text": "The function $f(x) = x^{4} - 2x^{2}$ is strictly increasing on",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(-2,0) and $[1,\\infty)$",
+        "[-1,0] and $[2,\\infty)$",
+        "[-1,0] and $[1,\\infty)$",
+        "(-2,0] and $[0,\\infty)$",
+        "[-2,0] and $(1,\\infty)$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 61,
+      "subject": "Mathematics",
+      "text": "If the rate of increase of the radius of circle 5 cm/sec, then the rate of increase of its area when the radius is 20 cms, will be",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$10\\pi$ cm²/sec",
+        "$20\\pi$ cm²/sec",
+        "$100\\pi$ cm²/sec",
+        "$200\\pi$ cm²/sec",
+        "$400\\pi$ cm²/sec"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 62,
+      "subject": "Mathematics",
+      "text": "If the function $f(x) = x^{2} + ax + 1$ is increasing on [1,2], then $\\alpha$ is greater than or equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "-2",
+        "-5",
+        "-4",
+        "-7",
+        "-3"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 63,
+      "subject": "Mathematics",
+      "text": "The absolute maximum value of the function $f(x) = x^{3} - 3x + 2$ in [0,2] is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 64,
+      "subject": "Mathematics",
+      "text": "If $\\int \\left(3t^{2}sin(\\frac{1}{t}) - tcos(\\frac{1}{t})dt = f(t)sin(\\frac{1}{t}) + c\\right.$ then $f(2)$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "-2",
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 65,
+      "subject": "Mathematics",
+      "text": "If $\\int \\frac{2^{1 / x}}{x^{2}} dx = k2^{1 / x} + c$ then $k$ is equal to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{1}{\\log 2}$",
+        "$\\log 4$",
+        "$\\frac{1}{\\log 3}$",
+        "$\\frac{-1}{\\log 3}$",
+        "$\\frac{-1}{\\log 2}$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 66,
+      "subject": "Mathematics",
+      "text": "$\\int e^{x}\\left(\\frac{1 - \\sin x}{1 - \\cos x}\\right)dx =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$e^{x}\\cot x + C$",
+        "$-e^{x}\\cot x + C$",
+        "$e^{x}\\cot \\frac{x}{2} +C$",
+        "$-e^{x}\\cot \\frac{x}{2} +C$",
+        "$2e^{x}\\cot \\frac{x}{2} +C$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 67,
+      "subject": "Mathematics",
+      "text": "If $u = \\int e^{x}\\cos x dx, v = \\int e^{x}\\sin x dx,$ then $u + v =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$-u^{\\prime} + C$",
+        "$u^{\\prime} + C$",
+        "$-v^{\\prime} + C$",
+        "$v^{\\prime} + C$",
+        "$2v^{\\prime} + C$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 68,
+      "subject": "Mathematics",
+      "text": "$\\int \\sin^{3}x e^{l}\\log \\cos x d x =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\cos^{4}x}{4} +C$",
+        "$\\frac{-\\cos^{4}x}{4} +C$",
+        "$\\frac{x\\cos^{4}x}{4} +C$",
+        "$\\frac{\\sin^{4}x}{4} +C$",
+        "$\\frac{-\\sin^{4}x}{4} +C$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 69,
+      "subject": "Mathematics",
+      "text": "If $\\int_{a}^{b}x^{3}d x = 0$ and $\\int_{a}^{b}x^{2}d x = \\frac{2}{3},$ then the values of $a$ and $b$ respectively are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1 and 1",
+        "0 and 1",
+        "1 and -1",
+        "1 and 0",
+        "2 and 0"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 70,
+      "subject": "Mathematics",
+      "text": "$\\int_{\\frac{\\pi}{6}}^{\\frac{\\pi}{3}} \\frac{dx}{1 + \\sqrt{\\tan x}} =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{\\pi}{6}$",
+        "$\\frac{\\pi}{4}$",
+        "$\\frac{\\pi}{3}$",
+        "$\\frac{\\pi}{12}$",
+        "$\\frac{\\pi}{2}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 71,
+      "subject": "Mathematics",
+      "text": "The area of the region bounded by the lines, $y = x + 2, x = 0, x = 1$ and $y = 0$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "2 sq.units",
+        "5 sq.units",
+        "9 sq.units",
+        "9 sq.units",
+        "12 sq.units"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 72,
+      "subject": "Mathematics",
+      "text": "$\\int_{1}^{\\pi /4} \\sqrt{1 + \\sin 2x} dx =$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1",
+        "$\\sqrt{2} +1$",
+        "$\\sqrt{2} -1$",
+        "1-√2",
+        "-√2"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 73,
+      "subject": "Mathematics",
+      "text": "The solution of $(e^y + 1) \\cos x dx + e^y \\sin x dy = 0$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$(e^y + 1) \\sin x = C$",
+        "$(e^y + 1) = C \\sin x$",
+        "$e^y = C \\sin x$",
+        "$e^y(1+\\sin x) = C$",
+        "$(e^y + 1) \\cos x = C$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 74,
+      "subject": "Mathematics",
+      "text": "The function $y = be^{x} + ae^{-x}$ , $a$ and $b$ are constants, is a solution of",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$y^{\\prime \\prime} + y = 0$",
+        "$y^{\\prime \\prime} - y = 0$",
+        "$y^{\\prime \\prime} + x = 0$",
+        "$y^{\\prime \\prime} - 2y = 0$",
+        "$y^{\\prime \\prime} + xy = 0$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 75,
+      "subject": "Mathematics",
+      "text": "Which one of the following point is not in a feasible region bounded by the inequalities $x \\leq 4,y\\leq 6,x + y\\leq 6,x\\geq 0,y\\geq 0$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(0,0)",
+        "(4,0)",
+        "(4,2)",
+        "(0,6)",
+        "(6,0)"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 76,
+      "subject": "Physics",
+      "text": "A physical quantity that has the same dimensions as those of Boltzmann constant is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "energy",
+        "bulk modulus",
+        "power",
+        "gas constant R",
+        "thermal conductivity"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 77,
+      "subject": "Physics",
+      "text": "Taking into consideration of significant figures, in the conversion relation $2.0 \\mathrm{ms}^{-2} = \\mathrm{X} \\mathrm{km} \\mathrm{h}^{-2}$ , the value of $X$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$2.6 \\times 10^{4}$",
+        "$2.592 \\times 10^{4}$",
+        "$2 \\times 10^{4}$",
+        "$2.592 \\times 10^{5}$",
+        "$2.60 \\times 10^{5}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 78,
+      "subject": "Physics",
+      "text": "A car moves with a speed of 20 km/h for one hour. Then it turns perpendicular to its path and moves with the same velocity for 30 minutes. Then the magnitude of its displacement is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "10 km",
+        "20 km",
+        "$10\\sqrt{5}\\mathrm{km}$",
+        "$10\\sqrt{2}\\mathrm{km}$",
+        "$20\\sqrt{5}\\mathrm{km}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 79,
+      "subject": "Physics",
+      "text": "If the angular speed of a particle moving in a circular path of radius 1.2 m is increased from 2 rads$^{-1}$ to 4 rads$^{-1}$ keeping its radius constant, then its linear speed is increased by",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1.6 ms$^{-1}$",
+        "2.4 ms$^{-1}$",
+        "3.6 ms$^{-1}$",
+        "4.8 ms$^{-1}$",
+        "6 ms$^{-1}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 80,
+      "subject": "Physics",
+      "text": "If the position vector of a particle is $\\vec{r} = 2t\\hat{i} +\\sqrt{3} t^{2}\\hat{j} +5\\hat{k}$ with $\\vec{r}$ in m and t in s, then at $t = 1s$ the angle made by the velocity vector with $x$ -axis is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "30°",
+        "45°",
+        "60°",
+        "120°",
+        "90°"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 81,
+      "subject": "Physics",
+      "text": "If the maximum acceleration of a moving platform to keep a box of mass 5 kg on it without sliding is $3ms^{- 1}$ , then the static friction between the box and floor of the platform is $(g = 10ms^{- 2})$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0.15",
+        "0.25",
+        "0.30",
+        "0.35",
+        "0.4"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 82,
+      "subject": "Physics",
+      "text": "If 10 identical silver coins each of mass $m$ are placed one over the other, then force on the $6^{\\text{th}}$ coin from the bottom is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "10 mg",
+        "8 mg",
+        "6 mg",
+        "4 mg",
+        "zero"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 83,
+      "subject": "Physics",
+      "text": "A body initially at rest breaks up into two pieces of masses $M$ and $3M$ and move with a total kinetic energy of $E$ , then the kinetic energy of the piece of mass $M$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{3E}{4}$",
+        "$\\frac{E}{4}$",
+        "$\\frac{2E}{3}$",
+        "$\\frac{E}{2}$",
+        "$\\frac{3E}{2}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 84,
+      "subject": "Physics",
+      "text": "If a proton, a deuteron and an $\\alpha$ -particle have the same speed, then the kinetic energy is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "same for all particles",
+        "the lowest for proton",
+        "the highest for deuteron",
+        "same for proton and deuteron",
+        "the lowest for $\\alpha$ -particle"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 85,
+      "subject": "Physics",
+      "text": "The moment of inertia of a system of two masses $2kg$ and $4kg$ lying in the $x - y$ plane at distances, $2m$ and $4m$ , respectively from the origin about the $z$ -axis is (in $\\mathrm{kgm}^2$ )",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "36",
+        "48",
+        "64",
+        "72",
+        "80"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 86,
+      "subject": "Physics",
+      "text": "A swimmer jumps from a height is able to increase the number of loops made in air by",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "stretching his legs outwards",
+        "decreasing angular velocity",
+        "by stretching his arms",
+        "by pulling his legs and arms inward",
+        "by pulling his legs inward and stretching his arms outward"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 87,
+      "subject": "Physics",
+      "text": "The ratio of the weights of an object of mass m at a height R and 2R from the surface of earth is (R is the radius of earth)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4:9",
+        "1:1",
+        "9:4",
+        "1:2",
+        "4:1"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 88,
+      "subject": "Physics",
+      "text": "If the magnitude of gravitational potential energy of an object of mass $200kg$ at a height of $3.6\\times 10^{6}m$ from the earth surface is $6\\times 10^{6}J$ then its value at a height of $5.6\\times 10^{6}m$ is (Radius of earth is $6.4\\times 10^{6}m$)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$5\\times 10^{6}J$",
+        "$4\\times 10^{6}J$",
+        "$3\\times 10^{6}J$",
+        "$2\\times 10^{6}J$",
+        "$10^{6}J$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 89,
+      "subject": "Physics",
+      "text": "The force required to increase the length of a thin copper wire of cross- sectional area 0.1 cm² by 0.1 % is (Young's modulus of copper is $11\\times 10^{10}Nm^{- 2}$)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "550 N",
+        "$11\\times 10^{4}N$",
+        "$10.5\\times 10^{3}N$",
+        "1100 N",
+        "$5.5\\times 10^{3}N$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 90,
+      "subject": "Physics",
+      "text": "If a huge tank has a small side hole at a depth of 2 m from the surface of water, then the velocity of water flowing through the hole is ( $g = 10ms^{- 2}$)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$2\\sqrt{5} ms^{-1}$",
+        "$2\\sqrt{10} ms^{-1}$",
+        "$\\sqrt{10} ms^{-1}$",
+        "$4\\sqrt{10} ms^{-1}$",
+        "$4\\sqrt{5} ms^{-1}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 91,
+      "subject": "Physics",
+      "text": "Lakes and ponds freeze at the top surface with water below. This phenomenon is due to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "high pressure at their bottom",
+        "low pressure at their bottom",
+        "the maximum density of water at $4^{\\circ}C$",
+        "the maximum density of water at $0^{\\circ}C$",
+        "elevation of freezing point of water"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 92,
+      "subject": "Physics",
+      "text": "If the temperature of 2 moles of krypton gas is increased from $-11^{\\circ}C$ to $89^{\\circ}C$ at constant volume, then (specific heat at constant volume of krypton is $\\mathbb{C}_{\\mathbb{V}}$)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "work done on the gas is not zero",
+        "internal energy is not changed",
+        "work is done by the gas",
+        "amount of heat added is $200~\\mathrm{C}_{\\mathrm{V}}$",
+        "internal energy is increased by $100~\\mathrm{C}_{\\mathrm{V}}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 93,
+      "subject": "Physics",
+      "text": "If an ideal heat engine with an efficiency of $40\\%$ rejects heat at $27^{\\circ}C$ , then it should have absorbed heat at",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$377^{\\circ}C$",
+        "$500^{\\circ}C$",
+        "$227^{\\circ}C$",
+        "$427^{\\circ}C$",
+        "$460^{\\circ}C$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 94,
+      "subject": "Physics",
+      "text": "Two perfect monoatomic gases at temperatures $300K$ and $410K$ are mixed without any loss of heat. If $10^{24}$ and $10^{23}$ are the number of molecules in the respective gases, then the temperature of the mixture is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "340K",
+        "310K",
+        "360K",
+        "350K",
+        "370K"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 95,
+      "subject": "Physics",
+      "text": "If the temperature $T$ of oxygen molecule is raised to $9T$ , then its root mean square speed $v$ is increased to",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "3v",
+        "2v",
+        "$\\frac{v}{2}$",
+        "$\\frac{v}{3}$",
+        "$\\frac{v}{\\sqrt{3}}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 96,
+      "subject": "Physics",
+      "text": "For a particle executing simple harmonic motion with amplitude $A$ and time period $T$ along $x$ - axis, the time taken by the particle to move from $x = 0$ to $x = A$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{T}{2}$",
+        "$\\frac{T}{3}$",
+        "$\\frac{T}{4}$",
+        "$\\frac{T}{8}$",
+        "$\\frac{T}{6}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 97,
+      "subject": "Physics",
+      "text": "With Laplace correction in Newton's formula for the velocity of sound in gases, the velocity of sound in monoatomic gas at STP is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\sqrt{\\frac{7P}{5\\rho}}$",
+        "$\\sqrt{\\frac{5P}{3\\rho}}$",
+        "$\\sqrt{\\frac{2P}{2\\rho}}$",
+        "$\\sqrt{\\frac{7P}{2\\rho}}$",
+        "$\\sqrt{\\frac{P}{\\rho}}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 98,
+      "subject": "Physics",
+      "text": "A, B and C are three points in space forming an equilateral triangle of side $10cm$ . If a point charge $8\\mu C$ is placed at A, then the work done in moving a unit charge from B to C is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "zero",
+        "720 J",
+        "7200 J",
+        "360 J",
+        "3600 J"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 99,
+      "subject": "Physics",
+      "text": "Three capacitors $A,B,C$ with respective capacitance of $1\\mu \\mathrm{F},2\\mu \\mathrm{F}$ and $3\\mu \\mathrm{F}$ are connected as shown. For a given voltage source $V$ connected across them, the combination that can store the maximum energy is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "Option A",
+        "Option B",
+        "Option C",
+        "Option D",
+        "Option E"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 100,
+      "subject": "Physics",
+      "text": "The equipotential surface of a system of two point charge $5\\mu \\mathrm{C}$ and $- 5\\mu \\mathrm{C}$ at points $A$ and $B$ separated by $80cm$ is a plane perpendicular to the line connecting $A$ and $B$ at",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$0.4m$ from A",
+        "$0.6m$ from A",
+        "$0.5m$ from A",
+        "$0.6m$ from B",
+        "$0.5m$ from B"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 101,
+      "subject": "Physics",
+      "text": "If an infinitely long uniformly charged wire produces an electric field of intensity $E$ at a distance of $d$ from it, then the linear charge density $\\lambda$ of the wire is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\pi \\in_0Ed$",
+        "$\\frac{\\pi}{2}\\in_0Ed$",
+        "$\\frac{1}{2}\\in_0Ed$",
+        "$2\\pi \\in_0 Ed$",
+        "$\\in_0 Ed$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 102,
+      "subject": "Physics",
+      "text": "The ratio of the rate of flow of electrons through three resistors connected in parallel to a voltage source $V$ is $3:2:1$ , then the ratio of their respective resistance values is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1:1:1",
+        "6:3:2",
+        "2:3:6",
+        "9:4:1",
+        "$\\sqrt{6}:\\sqrt{4}:\\sqrt{2}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 103,
+      "subject": "Physics",
+      "text": "The ratio of the heat produced in a $2\\Omega$ and a $4\\Omega$ resistor connected in series with a voltage source of $12V$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "2:1",
+        "1:4",
+        "4:1",
+        "1:2",
+        "1:8"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 104,
+      "subject": "Physics",
+      "text": "Three cells of $3V,4V$ and $4V$ with respective internal resistances $0.5\\Omega ,0.75\\Omega$ and $0.75\\Omega$ are connected is series to a resistor of $4\\Omega$ . Then the current in the circuit is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "1A",
+        "0.5A",
+        "0.25A",
+        "0.75A",
+        "0.67A"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 105,
+      "subject": "Physics",
+      "text": "If a current carrying circular loop is suspended in a uniform magnetic field $\\mathbf{B}$ , then",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "a couple will act on the loop",
+        "the loop will start to rotate",
+        "areal vector of the loop will be set in the direction of $\\mathbf{B}$",
+        "areal vector of the loop will be perpendicular to the direction of $\\mathbf{B}$",
+        "loop will be deflected away from the field $\\mathbf{B}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 106,
+      "subject": "Physics",
+      "text": "A magnetic dipole of moment $M$ is placed at an angle of $60^{\\circ}$ with respect to B. The work done to turn it from $60^{\\circ}$ to $90^{\\circ}$ with respect to the field is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "MB",
+        "$\\sqrt{2} MB$",
+        "0",
+        "2MB",
+        "$\\frac{MB}{2}$"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 107,
+      "subject": "Physics",
+      "text": "The flow of current of 2A through a straight solenoid of length 2 m produces a magnetic field of $2\\pi \\times 10^{-4}\\mathrm{T}$ at its centre. Then the number of turns in the solenoid is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "600",
+        "500",
+        "3500",
+        "5000",
+        "700"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 108,
+      "subject": "Physics",
+      "text": "A wire of length 4 m carrying a current of 1 A is bent to form a circular loop. The magnetic moment of the loop (in Am2) is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{4}{\\pi}$",
+        "$\\frac{2}{\\pi}$",
+        "$\\frac{1}{\\pi}$",
+        "$\\frac{1}{4\\pi}$",
+        "$\\frac{1}{2\\pi}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 109,
+      "subject": "Physics",
+      "text": "The plane of a circular loop of area $150cm^2$ is perpendicular to a uniform magnetic field of 0.5 T. If the loop is turned such that its plane is in the direction of the field in $0.5s$ , then the induced emf produced is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "25 mV",
+        "10 mV",
+        "2.5 mV",
+        "15 mV",
+        "7.5 mV"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 110,
+      "subject": "Physics",
+      "text": "A transformer $A$ of turns ratio $2:1$ and another transformer $B$ of turns ratio $1:2$ are connected. The secondary output obtained from A is given as the primary input voltage for B. If the primary ac voltage of A is 200 V, then the secondary voltage from B is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "100V",
+        "200V",
+        "50V",
+        "400V",
+        "500V"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 111,
+      "subject": "Physics",
+      "text": "Microwaves are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "used in radio and television communications",
+        "having frequency range from 54 MHz to 890 MHz",
+        "short wavelength radio waves",
+        "produced by hot bodies and molecules",
+        "absorbed by ordinary glass"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 112,
+      "subject": "Physics",
+      "text": "An object placed at 10 cm in front of a concave mirror of focal length of 8 cm gives image of magnification of",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "2",
+        "10"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 113,
+      "subject": "Physics",
+      "text": "The magnifying power of a telescope of length 76 cm in the normal adjustment is 75. Then the focal lengths of the objective and eyepiece lenses are, respectively,",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "50 cm, 25 cm",
+        "70 cm, 5 cm",
+        "75 cm, 1 cm",
+        "73 cm, 2 cm",
+        "60 cm, 15 cm"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 114,
+      "subject": "Physics",
+      "text": "The fringe width obtained in a given Young's double slit experimental set up for red light, blue light and green light are, respectively, $\\beta_{\\mathrm{R}}$ , $\\beta_{\\mathrm{B}}$ and $\\beta_{\\mathrm{G}}$ . Then",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\beta_{\\mathrm{B}} > \\beta_{\\mathrm{R}}$",
+        "$\\beta_{\\mathrm{R}} > \\beta_{\\mathrm{G}}$",
+        "$\\beta_{\\mathrm{G}} > \\beta_{\\mathrm{B}}$",
+        "$\\beta_{\\mathrm{R}} > \\beta_{\\mathrm{B}}$",
+        "$\\beta_{\\mathrm{G}} > \\beta_{\\mathrm{R}}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 115,
+      "subject": "Physics",
+      "text": "If the de Broglie wavelength associated with an electron is 0.1227 nm, then its accelerating potential is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "64V",
+        "200V",
+        "100V",
+        "160V",
+        "36V"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 116,
+      "subject": "Physics",
+      "text": "If a radiation of energy $5.2 \\text{eV}$ falls on the photosensitive surfaces of Mo and Ni, they emit photoelectrons with maximum kinetic energy of $0.5 \\text{eV}$ and $1 \\text{eV}$ , respectively. Then the work function of",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "Mo is $2.6 \\text{eV}$",
+        "Ni is $6.2 \\text{eV}$",
+        "Mo is $6.2 \\text{eV}$",
+        "Ni is $4.2 \\text{eV}$",
+        "Mo is $4.2 \\text{eV}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 117,
+      "subject": "Physics",
+      "text": "If a radioactive parent nucleus $\\frac{234}{96} X$ emits two alpha particles and two $\\beta$ particles successively to reach the daughter nucleus $^{a}_{b}Y$ , then the values of $a$ and $b$ are",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "224 and 90",
+        "220 and 94",
+        "228 and 92",
+        "230 and 92",
+        "226 and 92"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 118,
+      "subject": "Physics",
+      "text": "The difference in magnitudes of angular momentum of the electrons revolving in $5^{\\text{th}}$ Bohr's orbit and $3^{\\text{rd}}$ Bohr's orbit of hydrogen atom is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\frac{2h}{\\pi}$",
+        "$\\frac{h}{\\pi}$",
+        "$\\frac{h}{2\\pi}$",
+        "$\\frac{3h}{2\\pi}$",
+        "$\\frac{5h}{2\\pi}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 119,
+      "subject": "Physics",
+      "text": "Intrinsic semiconductors Ge or Si doped with",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "indium becomes an n-type semiconductor",
+        "antimony becomes a p-type semiconductor",
+        "phosphorus becomes a n-type semiconductor",
+        "boron becomes a n-type semiconductor",
+        "arsenic becomes a p-type semiconductor"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 120,
+      "subject": "Physics",
+      "text": "Four ideal diodes are connected as shown then the current drawn from the battery is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "zero",
+        "10 mA",
+        "100 mA",
+        "50 mA",
+        "20 mA"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 121,
+      "subject": "Chemistry",
+      "text": "The empirical formula of a metal oxide which has $54\\%$ metal (M) and $46\\%$ oxygen (O) is (Atomic mass of $\\mathbf{M} = 27$ amu and $\\mathrm{O} = 16$ amu)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\mathrm{M}_3\\mathrm{O}_2$",
+        "$\\mathrm{MO}_2$",
+        "$\\mathrm{M}_2\\mathrm{O}_3$",
+        "$\\mathrm{M}_2\\mathrm{O}_5$",
+        "$\\mathrm{M}_2\\mathrm{O}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 122,
+      "subject": "Chemistry",
+      "text": "The threshold wavelength of a metal is $6000\\mathrm{A}^\\circ$ . The work function of the metal is ( $\\mathrm{h} = 6.62\\times 10^{- 34}\\mathrm{J}\\mathrm{s}$)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$3.31\\times 10^{19}\\mathrm{J}$",
+        "$3.31\\times 10^{-19}\\mathrm{J}$",
+        "$13.2 \\times 10^{-19} \\mathrm{J}$",
+        "$13.2 \\times 10^{-19} \\mathrm{J}$",
+        "$1.5 \\times 10^{-19} \\mathrm{J}$"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 123,
+      "subject": "Chemistry",
+      "text": "The radius of the first orbit $\\mathsf{He}^{+}$ is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "52.9 pm",
+        "13.24 pm",
+        "211.6 pm",
+        "105.8 pm",
+        "26.45 pm"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 124,
+      "subject": "Chemistry",
+      "text": "In Mosley experiment, the X-ray spectrum is obtained by plotting",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "square root of frequency vs atomic mass",
+        "square root of frequency vs atomic number",
+        "square of frequency vs atomic mass",
+        "square root of wavelength vs atomic number",
+        "square root of wavelength vs atomic mass"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 125,
+      "subject": "Chemistry",
+      "text": "Which of the following elements have the highest and the lowest first ionization enthalpy? (i) Be (ii) B (iii) C (iv) N (v) O",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(ii) and (iv)",
+        "(i) and (v)",
+        "(i) and (iii)",
+        "(ii) and (iii)",
+        "(i) and (ii)"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 126,
+      "subject": "Chemistry",
+      "text": "The correct increasing order of dipole moment of the following molecules is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{NH}_3< \\mathrm{H}_2\\mathrm{O}$",
+        "$\\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{H}_2\\mathrm{O}< \\mathrm{NH}_3$",
+        "$\\mathrm{H}_2\\mathrm{O}< \\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{NH}_3$",
+        "$\\mathrm{CHCl}_3< \\mathrm{NF}_3< \\mathrm{H}_2\\mathrm{O}< \\mathrm{NH}_3$",
+        "$\\mathrm{NH}_3< \\mathrm{NF}_3< \\mathrm{CHCl}_3< \\mathrm{H}_2\\mathrm{O}$"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 127,
+      "subject": "Chemistry",
+      "text": "The number of bonding pairs and lone pairs of electrons in $\\mathsf{BrF}_5$ molecule are respectively",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "4 and 2",
+        "3 and 2",
+        "4 and 1",
+        "5 and 1",
+        "3 and 1"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 128,
+      "subject": "Chemistry",
+      "text": "Which of the following bond has highest mean bond enthalpy?",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "N=N",
+        "O=O",
+        "N=N",
+        "C=C",
+        "C=O"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 129,
+      "subject": "Chemistry",
+      "text": "The correct increasing order of enthalpy of fusion of $\\Delta_{\\mathrm{fus}}\\mathrm{H}^{+}$ (in kJ mol $^{-1}$ ) of the following compounds is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$\\mathrm{CH_3COCH_3< CCl_4< C_6H_6}$",
+        "$\\mathrm{CH_3COCH_3< C_6H_6< CCl_4}$",
+        "$\\mathrm{CCl_4< C_6H_6< CH_3COCH_3}$",
+        "$\\mathrm{CCl_4< CH_3COCH_3< C_6H_6}$",
+        "$\\mathrm{C_6H_6< CH_3COCH_3< CCl_4}$"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 130,
+      "subject": "Chemistry",
+      "text": "The solubility product, Ksp of a sparingly soluble salt, $\\mathrm{AX}_2$ , is $3.2 \\times 10^{-14} \\mathrm{~mol}^3 \\mathrm{lit}^{-3}$ . Its solubility is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "$4 \\times 10^{-3} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
+        "$2 \\times 10^{-2} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
+        "$2 \\times 10^{-5} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
+        "$8 \\times 10^{-4} \\mathrm{~mol} \\mathrm{lit}^{-1}$",
+        "$2 \\times 10^{-3} \\mathrm{~mol} \\mathrm{lit}^{-1}$"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 131,
+      "subject": "Chemistry",
+      "text": "Match the correct pH value with the following substances: (a) Milk of magnesia (i) $\\mathrm{pH} = 6.8$ (b) Black coffee (ii) $\\mathrm{pH} = 7.8$ (c) Egg white (iii) $\\mathrm{pH} = 5$ (d) Milk (iv) $\\mathrm{pH} = 10$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(a)-(iv), (b)-(ii), (c)-(i). (d)-(ii)",
+        "(a)-(iv), (b)-(ii),(c)-(iii), (d)-(i)",
+        "(a)-(i), (b)-(iv), (c)-(iii). (d)-(ii)",
+        "(a)-(i), (b)-(iii), (c)-(ii), (d)-(iv)",
+        "(a)-(iv), (b)-(iii), (c)-(ii). (d)-(i)"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 132,
+      "subject": "Chemistry",
+      "text": "The $\\Delta \\mathrm{rG}^{\\circ}$ of the galvanic cell in which the following cell reaction takes place, $2\\mathrm{Cr(s)} + 3\\mathrm{Cd}^{2 + }(\\mathrm{aq})\\rightarrow 2\\mathrm{Cr}^{3 + }(\\mathrm{aq}) + 3\\mathrm{Cd(s)}$ is $(\\mathrm{E^{\\circ}Cr^{3 + } / Cr = - 0.74V}$ and $\\mathrm{E}^{\\circ}\\mathrm{Cd}^{2 + } / \\mathrm{Cd} = - 0.40\\mathrm{V}$)",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "-196.86 kJ mol-1",
+        "+196.86 kJ mol-1",
+        "-96.50 kJ mol-1",
+        "+96.50 kJ mol-1",
+        "+98.12 kJ mol-1"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 133,
+      "subject": "Chemistry",
+      "text": "The molar conductivity of a weak mono basic acid, HA at 298 K is 70 Scm2mol- 1. What is the percentage ionisation of HA at 298 K? [At infinite dilution $\\lambda_{\\mathrm{H}}^{+} = 340$ Scm2mol- 1 and $\\lambda_{\\mathrm{A}}^{- } = 80$ Scm2mol- 1]",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "8.35 %",
+        "16.7 %",
+        "20 %",
+        "32.5 %",
+        "15.3 %"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 134,
+      "subject": "Chemistry",
+      "text": "The percentage of helium present in air used by scuba divers is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "56.2 %",
+        "11.7 %",
+        "32.1%",
+        "19.7%",
+        "21.5%"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 135,
+      "subject": "Chemistry",
+      "text": "A first order reaction follows the equation $\\mathrm{k} = (4 \\times 10^{10} \\mathrm{~s}^{- 1}) \\mathrm{e}^{- 2000 / \\mathrm{T}}$ . The value of Ea for the reaction is about $(\\mathrm{R} = 8.314 \\mathrm{~J} \\mathrm{~K}^{- 1} \\mathrm{~mol}^{- 1})$",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "17.4kJ mol-1",
+        "18.5kJ mol-1",
+        "17.5kJ mol-1",
+        "16.6kJ mol-1",
+        "17.8kJ mol-1"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 136,
+      "subject": "Chemistry",
+      "text": "In a pseudo first order reaction, the following results were obtained. Time /s: 0 10 20 30 40 50 60 [A]/mol lit-1: 0.65 0.55 0.46 0.38 0.26 0.2 0.13 Average rate of the reaction between 20 and 40 seconds is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "0.01 mol lit-1 s-1",
+        "0.02 mol lit-1 s-1",
+        "0.001 mol lit-1 s-1",
+        "0.1 mol lit-1 s-1",
+        "0.04 mol lit-1 s-1"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 137,
+      "subject": "Chemistry",
+      "text": "Which of the following compound of manganese is a mixed oxide?",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "MnO",
+        "Mn3O4",
+        "Mn2O3",
+        "MnO2",
+        "Mn2O7"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 138,
+      "subject": "Chemistry",
+      "text": "The formula of Pentaamminecarbonatocobalt(III)chloride is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "[Co(NH3)5(CO)]Cl2",
+        "[Co(NH3)5(CO3)]Cl",
+        "[Co(NH3)5(CO3)]Cl2",
+        "[Co(NH3)5(CO3)]Cl2",
+        "[Co(NH3)5(CO3)]Cl3"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 139,
+      "subject": "Chemistry",
+      "text": "The correct increasing order of wavelength of absorption of the following complexes is (i) [CoCl(NH3)5]2+ (ii) [Co(NH3)5(H2O)]3+ (iii) [Co(NH3)6]3+ (iv) [Co(CN)6]3-",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(i) < (ii) < (iii) < (iv)",
+        "(i) < (ii) < (iv) < (iii)",
+        "(ii) < (i) < (iv) < (iii)",
+        "(iv) < (iii) < (ii) < (i)",
+        "(i) < (iv) < (ii) < (iii)"
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 140,
+      "subject": "Chemistry",
+      "text": "When sodium fusion extract is treated with sodium nitropruside, the appearance of violet colour is due to the formation of",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "[Fe(CN)5NO]2-",
+        "[Fe(CN)5NO]2+",
+        "[Fe(CN)5NOS]4-",
+        "[Fe(CN)5NOS]2-",
+        "[Fe(CN)5NOS]2+"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 141,
+      "subject": "Chemistry",
+      "text": "Which of the following gives 2- methylbutane on hydrogenation? (i) 2-methylbut-1-ene (ii) 3-methylbut-1-yn (iii) 2-methylbut-2-ene (iv) 3-methylbut-1-ene (v) pent-2-ene",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(i) and (iii)",
+        "(ii), (iii), (iv)",
+        "(ii), (iii), (v)",
+        "(i), (ii), (v)",
+        "(i), (iii), (iv)"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 142,
+      "subject": "Chemistry",
+      "text": "An alkene, $\\mathrm{C_3H_6}$ (X), on treatment with HBr in presence of peroxide gives(Y). The compound(Y) on treatment with $\\mathrm{AgNO_2}$ in ethanol gives (Z). The compounds (X), (Y) and (Z) are respectively",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "propene, 1-bromopropane, 1-nitropropane",
+        "propene, 2-bromopropane, 2-nitropropane",
+        "propene, 2-bromopropane, 1-nitropropane",
+        "propyne, 1-bromopropane, 1-nitropropane",
+        "propene, 1,2-dibromopropane, 1,2-dinitopropane"
+      ],
+      "correct_option": 0
+    },
+    {
+      "id": 143,
+      "subject": "Chemistry",
+      "text": "The reaction $\\mathrm{CH_3Br + AgF\\rightarrow CH_3F + AgBr}$ is termed as",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "Stephen reaction",
+        "Swarts reaction",
+        "Sandmayer reaction",
+        "Kolbe's reaction",
+        "Riemer- Tiemann reaction"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 144,
+      "subject": "Chemistry",
+      "text": "When 2- methylbutan- 2- ol is treated with Lucas reagent con.HCl and ZnCl2 at room temperature, the product obtained is",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "2-chlorobutane",
+        "2-chloro-2-methylbutane",
+        "1-chlorobutane",
+        "1-chloropentane",
+        "2-chloro-2-methylbutene"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 145,
+      "subject": "Chemistry",
+      "text": "The relative ease of dehydration of the following alcohols is (i) Propan-2-ol (ii) Propan-1-ol (iii) 2- Methylpropan-2-ol",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(iii) $>$ (ii) $>$ (i)",
+        "(ii) $>$ (i) $>$ (iii)",
+        "(ii) $>$ (iii) $>$ (i)",
+        "(i) $>$ (ii) $>$ (iii)",
+        "(iii) $>$ (i) $>$ (ii)"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 146,
+      "subject": "Chemistry",
+      "text": "Which of the following is a commercial method of manufacture of benzaldehyde?",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "Hydrogenation of benzylchloride with Pd/BaSO4 as catalyst.",
+        "Oxidation of toluene with chromyl chloride followed by hydrolysis",
+        "Toluene is treated with $\\mathrm{Cr_2O_3}$ in acetic anhydride followed by hydrolysis",
+        "Side chain chlorination of toluene followed by hydrolysis.",
+        "Benzene is treated with CO and HClin the presence of anhydrous AlCl3."
+      ],
+      "correct_option": 3
+    },
+    {
+      "id": 147,
+      "subject": "Chemistry",
+      "text": "Vigorous oxidation of n-propylbenzene with alkaline potassium permanganate (KMnO4- KOH/$\\triangle$) followed by hydrolysis gives",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "phenol",
+        "phenyl acetic acid",
+        "phenyl propionic acid",
+        "benzaldehyde",
+        "benzoid acid"
+      ],
+      "correct_option": 4
+    },
+    {
+      "id": 148,
+      "subject": "Chemistry",
+      "text": "The descending order of basic strength of the following amines is (i) N-Methylbenzamine (ii) N.N'-Dimethylbenzamine (iii) Benzenamine (iv) Phenylmethanamine",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(i) $>$ (ii) $>$ (iv) $>$ (iii)",
+        "(iv) $>$ (i) $>$ (ii) $>$ (iii)",
+        "(iv) $>$ (ii) $>$ (i) $>$ (iii)",
+        "(ii) $>$ (i) $>$ (iv) $>$ (iii)",
+        "(i) $>$ (ii) $>$ (iii) $>$ (iv)"
+      ],
+      "correct_option": 2
+    },
+    {
+      "id": 149,
+      "subject": "Chemistry",
+      "text": "Benzene diazoniumchloride on treatment with HCl in the presence of copper powder gives chlorobenzene. This reaction is termed as",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "Sandmeyer reaction",
+        "Gatterman reaction",
+        "Stephen reaction",
+        "Gatterman Koch reaction",
+        "Etard reaction"
+      ],
+      "correct_option": 1
+    },
+    {
+      "id": 150,
+      "subject": "Chemistry",
+      "text": "Which of the following statements are true about sucrose? (i) It is a dissacharide (ii) It is a reducing sugar (iii) It is laevorotatory (iv) Sucrose on hydrolysis gives equimolar mixture of $\\mathbb{D}(+)$ glucose and D- (- )fructose. (v) In sucrose, two monosaccharides are held together by a glycosidic linkage",
+      "has_image": false,
+      "image_path": "",
+      "options": [
+        "(i), (ii), (iii)",
+        "(i), (ii), (v)",
+        "(ii), (iii), (v)",
+        "(i), (iii), (v)",
+        "(i), (iv), (v)"
+      ],
+      "correct_option": 4
+    }
+  ]
+}

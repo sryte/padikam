@@ -3,18 +3,46 @@
   "banner_message": "Welcome to Padikam!",
   "papers": [
     {
-      "id": "paper_2026_april_22",
-      "title": "2026 April 22",
+      "id": "paper_2026_april_17",
+      "title": "2026 April 17",
       "year": 2026,
       "version": 1,
-      "url": "pyq/2026/paper2026April22.json"
+      "url": "pyq/2026/April17/paper.json"
+    },
+    {
+      "id": "paper_2026_april_18",
+      "title": "2026 April 18",
+      "year": 2026,
+      "version": 1,
+      "url": "pyq/2026/April18/paper.json"
+    },
+    {
+      "id": "paper_2026_april_19",
+      "title": "2026 April 19",
+      "year": 2026,
+      "version": 1,
+      "url": "pyq/2026/April19/paper.json"
+    },
+    {
+      "id": "paper_2026_april_20",
+      "title": "2026 April 20",
+      "year": 2026,
+      "version": 1,
+      "url": "pyq/2026/April20/paper.json"
     },
     {
       "id": "paper_2026_april_21",
       "title": "2026 April 21",
       "year": 2026,
       "version": 1,
-      "url": "pyq/2026/paper2026April21.json"
+      "url": "pyq/2026/April21/paper.json"
+    },
+    {
+      "id": "paper_2026_april_22",
+      "title": "2026 April 22",
+      "year": 2026,
+      "version": 1,
+      "url": "pyq/2026/April22/paper.json"
     }
   ]
 }
