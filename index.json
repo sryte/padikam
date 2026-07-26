@@ -1,6 +1,6 @@
 {
-  "min_required_version": 1,
-  "banner_message": "Welcome to Padikam!",
+  "min_required_version": 2,
+  "banner_message": "",
   "papers": [
     {
       "id": "paper_2026_april_17",
