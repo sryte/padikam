@@ -1,4 +1,6 @@
 {
+  "min_required_version": 1,
+  "banner_message": "Welcome to Padikam! KEAM 2026 dates will be announced soon.",
   "papers": [
     {
       "id": "paper_2026_april_22",
