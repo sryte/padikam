@@ -1,6 +1,6 @@
-# Padikam - Content Repository
+# Padikkam - Content Repository
 
-Padikam is a completely free offline app with all the features you need to prepare for KEAM. This repository serves as the cloud backend for the app, hosting all the Past Year Question papers (PYQs) and other public assets. The app dynamically syncs these files so students can get the latest papers without needing an app update.
+Padikkam is a completely free offline app with all the features you need to prepare for KEAM. This repository serves as the cloud backend for the app, hosting all the Past Year Question papers (PYQs) and other public assets. The app dynamically syncs these files so students can get the latest papers without needing an app update.
 
 ---
 
